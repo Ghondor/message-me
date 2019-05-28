@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4cc7422-c696-4b47-821d-e0f6c0afff56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/message_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/messages_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/user_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/messages/_message.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/message_me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/message_me.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/chatroom_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/chatroom_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/chatroom/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/chatroom/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/sessions/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -104,19 +84,28 @@
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -132,6 +121,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>produ</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -142,7 +136,6 @@
         <option value="$PROJECT_DIR$/app/controllers/sessions.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_navigation.htm.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20190523085901_create_users.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/user_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190523091924_create_messages.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
@@ -165,6 +158,7 @@
         <option value="$PROJECT_DIR$/app/models/message.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/controllers/message_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -419,21 +413,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558519956085</updated>
-      <workItem from="1558519957228" duration="29077000" />
+      <workItem from="1558519957228" duration="29471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29077000" />
+    <option name="totallyTimeSpent" value="29471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20386267" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20386267" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4985694" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4985694" visible="true" weight="0.2987952" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32891566" />
@@ -479,13 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -652,17 +640,24 @@
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="250">
           <caret line="30" column="31" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
         </state>
       </provider>
     </entry>
